@@ -1,0 +1,9 @@
+@charset "UFT-8";
+
+body {
+    background-color: rgb(34, 31, 31);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+}
